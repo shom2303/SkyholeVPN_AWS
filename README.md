@@ -35,11 +35,11 @@ Determined the country of origin for the attacker based on the identified IP add
 <br />
 <br />
 Found the open port that grants access to the web server’s admin panel:  <br/>
-<img src="https://imgur.com/undefined.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://imgur.com/x0JtS8P.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 Analyzed the tools used by the attacker for directory and file enumeration:  <br/>
-<img src="https://imgur.com/undefined.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://imgur.com/SvmNVZd.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
  <br />
 Identified the specific admin panel directory uncovered by the attacker:  <br/>
