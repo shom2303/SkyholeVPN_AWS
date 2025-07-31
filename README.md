@@ -1,7 +1,5 @@
 <h1>Skyhole VPN AWS</h1>
 
- ### [YouTube Demonstration](https://youtu.be/VmLbdTw0HX8)
-
 <h2>Description</h2>
 In this project, I configured a self-hosted VPN and DNS filtering solution using Pi-hole, WireGuard, and Unbound on a Debian-based AWS Lightsail instance. WireGuard was set up as the VPN server to encrypt network traffic, while Pi-hole handled DNS-based ad blocking across connected devices. To enhance privacy and reduce third-party DNS reliance, I integrated Unbound as a recursive DNS resolver. This setup provides secure, encrypted browsing with customizable DNS filtering, showcasing my skills in Linux system administration, VPN architecture, and DNS privacy optimization.
 <br />
