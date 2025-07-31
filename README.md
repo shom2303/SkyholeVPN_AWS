@@ -27,7 +27,7 @@ In this project, I configured a self-hosted VPN and DNS filtering solution using
 
 <p align="center">
 Identified the source IP address initiating suspicious requests through packet analysis: <br/>
-<img src="https://imgur.com/b91e5b80-2ad8-43cf-aec9-58be260ec95f" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://imgur.com/aeMrFSu" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 Determined the country of origin for the attacker based on the identified IP address:  <br/>
