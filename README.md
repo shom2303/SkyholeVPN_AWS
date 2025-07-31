@@ -156,7 +156,9 @@ touch scripts/update.sh
 nano scripts/updates.sh
 
 And add the following script: 
+
 #!/bin/bash
+
 #Update the package index
 sudo apt-get update
 
