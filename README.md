@@ -31,51 +31,51 @@ Identified the source IP address initiating suspicious requests through packet a
 <br />
 <br />
 Determined the country of origin for the attacker based on the identified IP address:  <br/>
-<img src="https://imgur.com/a/GFYevNu.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://imgur.com/gHM0PAB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 Found the open port that grants access to the web server’s admin panel:  <br/>
-<img src="https://imgur.com/a/OPSvaqN" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://imgur.com/undefined.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 Analyzed the tools used by the attacker for directory and file enumeration:  <br/>
-<img src="https://imgur.com/a/JALOpAH" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://imgur.com/undefined.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
  <br />
 Identified the specific admin panel directory uncovered by the attacker:  <br/>
-<img src="https://imgur.com/a/DRr1i45" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://imgur.com/hCMULRa.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
  <br />
 Located the hash value used for login credentials in the captured traffic:  <br/>
-<img src="https://imgur.com/a/SybSUqV" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://imgur.com/u1XqxGn.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
  <br />
 Used CyberChef to decode the hash value into plaintext username and password:  <br/>
-<img src="https://imgur.com/a/3C6fM23" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://imgur.com/ScfIEK0.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
  <br />
 Detected the malicious file uploaded by the attacker to establish a reverse shell:  <br/>
-<img src="https://imgur.com/a/WNA5AG4" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://imgur.com/BgUOpdB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
  <br />
 Analyzed the command scheduled by the attacker to maintain persistence on the server:  <br/>
-<img src="https://imgur.com/a/fgoeHsC" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://imgur.com/undefined.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
  <br />
 Analyzed the command scheduled by the attacker to maintain persistence on the server:  <br/>
-<img src="https://imgur.com/a/nFCBgtk" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://imgur.com/undefined.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
  <br />
 Analyzed the command scheduled by the attacker to maintain persistence on the server:  <br/>
-<img src="https://imgur.com/a/kXMupH3" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://imgur.com/T8VGh7L.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
  <br />
 Analyzed the command scheduled by the attacker to maintain persistence on the server:  <br/>
-<img src="https://imgur.com/a/NkHXL0p" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://imgur.com/qNGnnRi.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
  <br />
 Analyzed the command scheduled by the attacker to maintain persistence on the server:  <br/>
-<img src="https://imgur.com/a/vdvwBH1" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://imgur.com/RIKgfxZ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <!--
  ```diff
