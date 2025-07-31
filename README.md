@@ -157,22 +157,28 @@ nano scripts/updates.sh
 
 And add the following script: 
 
-"#!/bin/bash
+#!/bin/bash
 
 #Update the package index
+
 sudo apt-get update
 
 #Upgrade the installed packages
+
 sudo apt-get upgrade -y
 
 #Update Pihole and Adblock List
+
 sudo pihole updatePihole
+
 sudo pihole updateGravity
 
 #Clean APT
+
 sudo apt autoclean -y
 #Remove unneeded Packages
-sudo apt autoremove -y"  <br/>
+
+sudo apt autoremove -y  <br/>
 <img src="https://imgur.com/RIKgfxZ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
