@@ -59,11 +59,11 @@ Detected the malicious file uploaded by the attacker to establish a reverse shel
 <br />
  <br />
 Analyzed the command scheduled by the attacker to maintain persistence on the server:  <br/>
-<img src="https://imgur.com/undefined.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://imgur.com/DBIHzC6.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
  <br />
 Analyzed the command scheduled by the attacker to maintain persistence on the server:  <br/>
-<img src="https://imgur.com/undefined.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://imgur.com/hfNbsX3.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
  <br />
 Analyzed the command scheduled by the attacker to maintain persistence on the server:  <br/>
