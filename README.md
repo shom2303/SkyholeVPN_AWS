@@ -1,4 +1,3 @@
-# SkyholeVPN_AWS
 <h1>Skyhole VPN AWS</h1>
 
  ### [YouTube Demonstration](https://youtu.be/VmLbdTw0HX8)
