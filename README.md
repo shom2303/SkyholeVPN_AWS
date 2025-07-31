@@ -31,7 +31,7 @@ Identified the source IP address initiating suspicious requests through packet a
 <br />
 <br />
 Determined the country of origin for the attacker based on the identified IP address:  <br/>
-<img src="https://imgur.com/a/GFYevNu" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://imgur.com/a/GFYevNu.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 Found the open port that grants access to the web server’s admin panel:  <br/>
